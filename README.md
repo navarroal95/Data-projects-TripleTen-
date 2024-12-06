@@ -3,8 +3,7 @@
 This repository contains a collection of data science projects completed during the TripleTen course. Each project includes a detailed analysis, implementation of machine learning models, and business insights. Below is a summary of the projects and links to their respective details.
 
 ## 📚 Table of Contents
--[Data-Driven Oil Well Selection: Profitability and Risk Assessment for OilyGiant](Data-Driven%20Oil%20Well%20Selection/README.md)
-
+-[Data-Driven Oil Well Selection: Profitability and Risk Assessment for OilyGiant](https://github.com/navarroal95/Data-projects-TripleTen-/tree/main/Data-Driven%20Oil%20Well%20Selection)
 - [Forecasting for Sweet Lift Taxi](./Forecasting%20for%20Sweet%20Lift%20Taxi.ipynb)
 - [ICE Video Game Analysis](./ICE%20video%20game%20analysis.ipynb)
 - [Optimizing Used Car Pricing: A Machine Learning Solution for Rusty Bargain](./Optimizing%20Used%20Car%20Pricing%20A%20Machine%20Learning%20Solution%20for%20Rusty%20Bargain.ipynb)
